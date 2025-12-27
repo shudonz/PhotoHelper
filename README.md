@@ -6,6 +6,20 @@ A Windows desktop application for batch updating photo metadata (EXIF, GPS, date
 
 PhotoHelper is a WPF application built with .NET 9.0 that simplifies the process of updating metadata for multiple photos simultaneously. It's particularly useful when you have a collection of photos from a specific location and date that need consistent metadata applied.
 
+## Screenshots
+
+### Main Interface
+
+![Main Window](screenshots/main-window.png)
+
+The application features a clean, modern interface with step-by-step guidance for updating photo metadata.
+
+### Processing Photos
+
+![Processing in Progress](screenshots/processing.png)
+
+Real-time progress tracking shows the status of each photo as it's being processed.
+
 ## Features
 
 - **Batch Processing**: Update metadata for all photos in a folder at once
